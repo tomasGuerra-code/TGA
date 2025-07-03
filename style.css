@@ -23,6 +23,10 @@ p{
     padding: 3% 2%;
 }
 
+ul {
+    text-align: center;
+}
+
 li {
     list-style: none;
 }
